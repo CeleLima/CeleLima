@@ -1,16 +1,17 @@
-## Hi there 👋
+## Hi there 👋 I'm am Marcele
 
-<!--
-**CeleLima/CeleLima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+##Sobre mim
+ 💻 Estudante de programação
+ 🚀 Atualmente técnico em informática 3/3
+ 🎯 Brasileira 
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## APRENDENDO
+<div>
+   <img src="https://skillicons.dev/icons?i=html,css,js,python,github" />
+</div>
+
+## Contato
+ gmail: madelizlima@gmail.com
+ 
+
