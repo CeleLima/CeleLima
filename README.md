@@ -1,5 +1,7 @@
 ## Hi there 👋 I'm am Marcele
-
+<div>
+ <img scr="https://pin.it/47eDIYg0e" />
+</div>
 ##Sobre mim
  💻 Estudante de programação
  🚀 Atualmente técnico em informática 3/3
