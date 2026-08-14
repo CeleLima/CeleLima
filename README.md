@@ -1,7 +1,8 @@
 ## Hi there 👋 I'm am Marcele
 <div>
- <img scr="gato.jpg />
+ <img scr="gato.jpg" />
 </div>
+  
 ##Sobre mim
  💻 Estudante de programação
  🚀 Atualmente técnico em informática 3/3
