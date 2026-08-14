@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm am Marcele
 <div>
- <img scr="https://pin.it/47eDIYg0e" />
+ <img scr="gato.jpg />
 </div>
 ##Sobre mim
  💻 Estudante de programação
