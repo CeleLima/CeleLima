@@ -5,6 +5,8 @@
  🚀 Atualmente técnico em informática 3/3
  🎯 Brasileira 
 
+ <img src="./gif-gato.gif" />
+
 
 ## APRENDENDO
 <div>
