@@ -1,7 +1,15 @@
-## Hi there 👋 I'm am Marcele
+## 
+╭──────────────────────────────────────────╮
+│  MARCELE                                 │  
+│                                          │
+│  💻 Informatics student                  │
+│  🚀 Learning • Creating • Developing     │
+│                                          │
+│  Java • C# • HTML • CSS • JavaScript     │
+╰──────────────────────────────────────────╯
 
  <img scr="./gato.jpg"/>
-size=24
+
 
   
 ##Sobre mim
