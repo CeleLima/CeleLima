@@ -1,6 +1,7 @@
 ## Hi there 👋 I'm am Marcele
 
  <img scr="./gato.jpg"/>
+size=24
 
   
 ##Sobre mim
