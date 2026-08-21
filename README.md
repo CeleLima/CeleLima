@@ -19,15 +19,7 @@
 
 </div>
 
-💗 Sou estudante **tecnologia**.
-
-🎓 Atualmente curso **Técnico em Informática**.
-
 💻 Gosto de aprender coisas novas.
-
-🌸 Meu objetivo é crescer cada vez mais na área da programação.
-
-✨ Transformando café, ideias e códigos em projetos incríveis!
 
 💻 Amo escrever!.
 
@@ -36,15 +28,10 @@
 
 ## 🌸 𝓞 𝓺𝓾𝓮 𝓮𝓾 𝓮𝓼𝓽𝓸𝓾 𝓪𝓹𝓻𝓮𝓷𝓭𝓮𝓷𝓭𝓸 🌸
 
-💻 `Programação`
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50">
 
-🌷 `Desenvolvimento Web`
-
-💗 `Java`
-
-🎀 `HTML + CSS`
-
-✨ `JavaScript`
 
 </div>
 
