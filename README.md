@@ -1,3 +1,6 @@
+<img src="./imagens rosa.jpg" width="200">
+
+
 <div align="center">
 
 # 🌸 𝓞𝓲𝓲, 𝓮𝓾 𝓼𝓸𝓾 𝓜𝓪𝓻𝓬𝓮𝓵𝓮! 🌸
