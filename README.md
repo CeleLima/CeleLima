@@ -16,11 +16,11 @@
 
 </div>
 
-💗 Sou estudante e apaixonada pelo mundo da **tecnologia**.
+💗 Sou estudante **tecnologia**.
 
 🎓 Atualmente curso **Técnico em Informática**.
 
-💻 Gosto de aprender coisas novas e criar projetos.
+💻 Gosto de aprender coisas novas.
 
 🌸 Meu objetivo é crescer cada vez mais na área da programação.
 
