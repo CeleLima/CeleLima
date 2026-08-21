@@ -4,7 +4,7 @@
 
 <img src="./gif-gato.gif" width="180">
 
-### 💗 𝙿𝚒𝚗𝚔 𝙿𝚛𝚘𝚐𝚛𝚊𝚖𝚖𝚎𝚛 💻🌷
+### 💗𝙿𝚛𝚘𝚐𝚛𝚊𝚖𝚖𝚎𝚛 💻🌷
 
 💻 Estudante de Programação • 🎀 Técnica em Informática • 🌸 Apaixonada por Tecnologia
 
