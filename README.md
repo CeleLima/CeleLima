@@ -45,6 +45,10 @@
 
 
 
+
+</a>
+
+
 </div>
 
 ---
@@ -61,12 +65,35 @@
 
 
 
+<a href="limamarcele_">
+
+<img src="https://img.shields.io/badge/INSTAGRAM-F7B6D2?style=for-the-badge&logo=instagram&logoColor=ffffff"/>
+
+</a>
+
+<a href="SEU_LINKEDIN">
+
+<img src="https://img.shields.io/badge/LINKEDIN-FFF0F5?style=for-the-badge&logo=linkedin&logoColor=555555"/>
+
+</a>
+
+<br>
+
+<a href="https://github.com/CeleLima">
+
+<img src="https://img.shields.io/badge/GITHUB-F9C6D8?style=for-the-badge&logo=github&logoColor=ffffff"/>
+
+</a>
+
+<a href="SEU_YOUTUBE">
+
+<img src="https://img.shields.io/badge/YOUTUBE-EFA8C4?style=for-the-badge&logo=youtube&logoColor=ffffff"/>
+
+
 
 
 
 ### 💗 𝒞𝑜𝒹𝑒 • 𝒞𝓇𝑒𝒶𝓉𝑒 • 𝒟𝓇𝑒𝒶𝓂 💗
-
-🌸 Feito com carinho por **Marcele** 🌸
 
 <img src="./gif-gato.gif" width="120">
 
