@@ -1,4 +1,4 @@
-<img src="./imagens rosa.jpg" width="200">
+<img src="./imagens rosa.jpg"  width="1200" height="100">>
 
 
 <div align="center">
