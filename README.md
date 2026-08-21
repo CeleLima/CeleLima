@@ -29,6 +29,8 @@
 
 ✨ Transformando café, ideias e códigos em projetos incríveis!
 
+💻 Amo escrever!.
+
 
 <div align="center">
 
